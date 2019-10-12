@@ -9,4 +9,4 @@ Have fun contributing anyways!!
 ## Collection
 ------------
 ### Lady Screaming to a Cat
-<img src="https://knowyourmeme.com/memes/woman-yelling-at-a-cat" width="150px" height="150px">
+<img src="https://knowyourmeme.com/memes/woman-yelling-at-a-cat" width="150" height="150">
