@@ -1,8 +1,8 @@
-# memes-template-collection
+# Memes Collection
 Be the boys who contribute for a documentation lists of memes template that goes viral around the world.
 
 ## Attention
-Please note, use format that I provide below for each meme.
+Please note, use format that I provide below for each meme or you do some improvement like adding year for each meme. Just do whatever you want.
 Have fun contributing anyways!!
 
 ## Collection
